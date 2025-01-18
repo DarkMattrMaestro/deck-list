@@ -1,0 +1,26 @@
+# Name: Patamon Sequence
+# Based on: N/A
+# Description {
+  Designed around "Patamon's Confession."
+}
+# Version: 0.0.1
+BT11-003 Tokomon 4
+BT14-033_P1 Patamon 3
+BT18-033 Patamon 2
+BT14-102_P1 Angemon 2
+BT18-035 Piddomon 1
+EX6-019 Angemon 3
+BT16-024 MagnaAngemon 3
+BT1-063 Seraphimon 1
+BT2-040 Ophanimon 1
+BT14-041 Seraphimon 3
+EX6-030 Dominimon 1
+EX4-031 Cherubimon 1
+P-129 T.K. Takaishi 1
+BT9-087 T.K. Takaishi & Izzy Izumi 3
+BT16-088_P1 Cody Hida & T.K. Takaishi 1
+BT14-093 Emissary of Hope 1
+EX6-067 Final Excalibur 1
+P-023 Patamon's Confession 4
+P-146 Recharge Plug-In Q 3
+EX5-068 Flashy Boss Punch 1

@@ -1,5 +1,7 @@
 # DarkMattrMaestro's Decks
 
+Decks for each card game are stored in `<Card Game Name>/decks.txt`.
+
 ## Why use a Git repository?
 
 Storing the version history of decks I build will allow me to revert back if new modifications don't work.

@@ -2,26 +2,34 @@
 # Based on: N/A
 # Description {
   Designed around "Patamon's Confession."
+
+  This deck uses the security stack as a sort of random-access memory.
+  High-level Digimon are added to the stack, then cards are extracted
+  either to the hand or to Digivolve. Matches do not start well,
+  having few options for getting cards on the field. However, the
+  end-game sees chains that can go from Patamon to a level 6 with
+  minimal memory cost, all while improving the next turn's setup.
 }
-# Version: 0.1.0
-BT11-003 Tokomon 4
-BT14-033_P1 Patamon 4
-BT18-033 Patamon 2
-BT14-102_P1 Angemon 4
-EX6-019 Angemon 4
-BT16-024 MagnaAngemon 4
-BT1-063 Seraphimon 1
-BT2-040 Ophanimon 2
-BT14-041 Seraphimon 3
-EX4-031 Cherubimon 1
-BT1-087 T.K. Takaishi 4
-P-129 T.K. Takaishi 3
-BT9-087 T.K. Takaishi & Izzy Izumi 2
-BT16-088_P1 Cody Hida & T.K. Takaishi 1
-BT3-102 Code Cracking 2
-BT14-093 Emissary of Hope 3
-P-023 Patamon's Confession 1
-LM-029 Yellow Scramble 2
-P-037_P1 Yellow Memory Boost! 3
-P-105_P1 Physical Training 3
-P-146 Recharge Plug-In Q 1
+# Version: 0.1.1
+3 Tokomon   BT11-003 
+2 Tokomon   BT14-003 
+3 Patamon   BT18-033 
+4 Patamon   BT14-033_P1 
+2 Angemon   BT16-019 
+4 Angemon   BT14-102_P1 
+1 Angemon   EX6-019 
+4 MagnaAngemon   BT16-024 
+3 ArkhaiAngemon   BT18-038 
+3 Seraphimon   BT14-041 
+1 Seraphimon   BT1-063 
+4 T.K.Takaishi   BT1-087 
+2 T.K.Takaishi&IzzyIzumi   BT9-087 
+3 T.K. Takaishi   P-129 
+1 CodyHida & T.K. Takaishi   BT16-088_P1 
+2 CodeCracking   BT3-102 
+3 YellowMemoryBoost!   P-037_P1 
+1 Recharge Plug-In Q   P-146 
+2 Yellow Scramble   LM-029 
+3 Physical Training   P-105_P1 
+3 EmissaryofHope   BT14-093 
+1 Patamon'sConfession   P-023 

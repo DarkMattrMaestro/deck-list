@@ -18,7 +18,7 @@ Version numbers are formatted similarly to [Semantic Versioning 2.0.0](https://s
   <Description>
 }
 # Version: <SemVer Version>
-<Card-ID> <Card Name> <Number of Copies>
+<Number of Copies> <Card Name>   <Card-ID>
 ...
-<Card-ID> <Card Name> <Number of Copies>
+<Number of Copies> <Card Name>   <Card-ID>
 ```
